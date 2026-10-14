@@ -8,10 +8,9 @@
 
 ## 👤 Thông tin sinh viên
 
-- **Họ và tên:** [Điền Họ và Tên của bạn]
-- **Mã sinh viên:** [Điền Mã Sinh Viên của bạn]
-- **Lớp / Nhóm:** [Điền Lớp hoặc Nhóm của bạn]
-- **GitHub Repository:** [Dán link repository của bạn tại đây]
+- **Họ và tên:** Vũ Đức Huy Hoàng
+- **Lớp / Nhóm:** HNCNTT-2
+- **GitHub Repository:** https://github.com/Hoang2006-creater/  PTIT_CNTT2_IT209_VuDucHuyHoang_Session13_Kiemtra
 
 ---
 
